@@ -1,4 +1,4 @@
-module lfsr (
+module tt_um_lfsr (
     output reg [3:0] out, // 4-bit output
     input clk,            // Clock input
     input rst             // Reset input
